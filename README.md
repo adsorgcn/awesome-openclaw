@@ -127,6 +127,9 @@ Access the built-in web dashboard at `http://localhost:18789/` to chat, manage i
 - [Web Search Pro](https://github.com/Zjianru/web-search-pro) - Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows. [ClawHub](https://clawhub.ai/Zjianru/web-search-pro)
 - [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation — post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, monitor accounts. 40+ endpoints via Xquik. `openclaw plugins install @xquik/tweetclaw`
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X API & Twitter scraper skill for AI coding agents — 40+ tools including tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions & Telegram integrations. REST API, MCP server & webhooks.
+- [everything-is-ok](https://github.com/ilang-ai/ilang-openclaw) - Universal AI upgrade protocol. Instruction-only, cross-platform (ChatGPT/Claude/Gemini/DeepSeek). Improves output structure and token efficiency. [ClawHub](https://clawhub.ai/ilang-ai/everything-is-ok)
+- [less-token](https://github.com/ilang-ai/ilang-openclaw) - 40-65% token reduction on summarization tasks. Zero dependencies, instruction-only. Built on I-Lang protocol. [ClawHub](https://clawhub.ai/ilang-ai/less-token)
+- [no-prompt](https://github.com/ilang-ai/ilang-openclaw) - AI generates structured instructions for other AIs. Eliminates manual prompt engineering. Instruction-only. [ClawHub](https://clawhub.ai/ilang-ai/no-prompt)
 
 ### Popular Skill Categories
 
